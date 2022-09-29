@@ -29,4 +29,11 @@
 
 # DEMO: 
  * Input: 
-   + abc
+   + Data in Mysql: 
+   ![image](https://user-images.githubusercontent.com/97506616/193016344-610427c1-e579-454a-8353-03aa31e0cea0.png)
+   + Data in PostgreSQL:
+   ![image](https://user-images.githubusercontent.com/97506616/193016389-b96daede-91f9-4ba2-9d3d-98dbea646a9a.png)
+
+ * Output:
+ ![image](https://user-images.githubusercontent.com/97506616/193016460-5a0de9c4-9213-4d45-ac7c-e1d8dc4ce7da.png)
+
