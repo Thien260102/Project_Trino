@@ -20,5 +20,9 @@
   ![image](https://user-images.githubusercontent.com/97506616/193010520-00084010-f73d-4c7e-95a4-babd727823ad.png)
 ## The third step:
 ### - Opening folder contain docker-compose.yml, right mouse button, turn on terminal and running as root:
-  * abcxyz
+  * Run: docker-compse up
+  * Displaying some infomations about containers:
+  ![image](https://user-images.githubusercontent.com/97506616/193013901-dcd8b222-5eb3-4837-80ef-d46cd0e9ba31.png)
+  * Then, run "docker exec -it trino_trino-coordiantor_1 trino" to starting query with Trino
+  * + abc +
 
