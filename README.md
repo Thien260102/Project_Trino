@@ -9,6 +9,6 @@
   * Open port of Mysql and PostgreSQL.
   * Unpacking file Trino.
   * Open folder and create folder etc then open folder etc.
-  * Create file node.properties and write like this: ![image](https://user-images.githubusercontent.com/97506616/193008875-0e01fc6e-6bc3-4464-af76-48719a84d48a.png)
-
+  * Create some files and write like this: ![image](https://user-images.githubusercontent.com/97506616/193008875-0e01fc6e-6bc3-4464-af76-48719a84d48a.png)
+  ** ![image](https://user-images.githubusercontent.com/97506616/193009193-06307c35-c9b4-4681-824a-fccbc57f6bd4.png)
 
