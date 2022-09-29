@@ -27,3 +27,6 @@
 
 # That' all, now you can store data using Mysql and PostgreSQL and query by TRINO
 
+# DEMO: 
+ * Input: 
+ + abc
