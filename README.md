@@ -23,6 +23,7 @@
   * Run: docker-compse up
   * Displaying some infomations about containers:
   ![image](https://user-images.githubusercontent.com/97506616/193013901-dcd8b222-5eb3-4837-80ef-d46cd0e9ba31.png)
-  * Then, run "docker exec -it trino_trino-coordiantor_1 trino" to starting query with Trino
-  * + abc +
+  * Then, run "docker exec -it trino_trino-coordiantor_1 trino" to starting query with TRINO
+
+# That' all, now you can store data using Mysql and PostgreSQL and query by TRINO
 
