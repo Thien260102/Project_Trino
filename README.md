@@ -19,6 +19,6 @@
   * Back to folder Trino you unpacked and create file docker-compose.yml:
   ![image](https://user-images.githubusercontent.com/97506616/193010520-00084010-f73d-4c7e-95a4-babd727823ad.png)
 ## The third step:
-###Opening folder contain docker-compose.yml, right mouse button, turn on terminal and running as root:
+### Opening folder contain docker-compose.yml, right mouse button, turn on terminal and running as root:
   * abcxyz
 
