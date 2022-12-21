@@ -1,3 +1,8 @@
+# Team:
+  * Dang Ba Kien: Write some document to report
+  * Vo Tan Tien: Find data for Mysql
+  * Nguyen Chau Thang: Find data for PostgreSQL
+  * Nguyen Van Thien (me): Leader, write report, researcher.
 # Purpose of this project is run Trino in environment Docker and Ubuntu
 ## The first step (install some softwares):
   * Installing Java runtime environment.
